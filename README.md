@@ -15,4 +15,4 @@ Basado en el curso de Youtube para su creación: https://youtube.com/playlist?li
 
 ![image](https://user-images.githubusercontent.com/119650235/206087810-537bef27-7dca-41ad-bad5-6a44cd8f11c6.png)
 
-Imagines de https://www.flaticon.com
+Imagines de los botones de https://www.flaticon.com
