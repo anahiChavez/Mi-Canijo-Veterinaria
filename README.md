@@ -16,3 +16,6 @@ Basado en el curso de Youtube para su creación: https://youtube.com/playlist?li
 ![image](https://user-images.githubusercontent.com/119650235/206087810-537bef27-7dca-41ad-bad5-6a44cd8f11c6.png)
 
 Imagines de los botones de https://www.flaticon.com
+
+**Facturas**
+![image](https://user-images.githubusercontent.com/119650235/206088466-7f5f314c-b9cb-471a-b4d2-eee52b6b939d.png)
