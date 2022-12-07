@@ -18,4 +18,9 @@ Basado en el curso de Youtube para su creación: https://youtube.com/playlist?li
 Imagines de los botones de https://www.flaticon.com
 
 **Facturas**
+
 ![image](https://user-images.githubusercontent.com/119650235/206088466-7f5f314c-b9cb-471a-b4d2-eee52b6b939d.png)
+
+**Reportes en Excel**
+
+![image](https://user-images.githubusercontent.com/119650235/206088860-28fbb654-104b-482d-88a9-2d8b4df9ac36.png)
